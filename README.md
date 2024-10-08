@@ -1,4 +1,4 @@
-# Nome do Projeto
+# my-graphql-api
 
 Descrição breve do projeto.
 
@@ -11,5 +11,12 @@ Descrição breve do projeto.
 - **MySQL**: Banco de dados relacional.
 - **Docker**: Para gerenciar o ambiente e a infraestrutura do banco de dados.
 
-## Estrutura do Projeto
+
+1. **Melhorias futuras**
+Adicionar autenticação e autorização mais robustas.
+Implementar testes automatizados.
+Melhorar a documentação da API.
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
 
